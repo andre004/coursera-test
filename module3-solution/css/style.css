@@ -1,0 +1,31 @@
+body {
+font-size:16px;
+font-family: 'Oxygen', sans-serif;
+
+}
+/*.navbar {
+	background-color: #696969;
+}
+
+.navbar .navbar-brand {
+		color: black;
+}
+.collapse .nav-bar .nav-item .nav-link{
+			color: black;
+}*/
+
+a{
+	color: black;
+}
+#chicken{
+	background-color: #696969;
+	text-align: center;
+	justify-content: space-around;
+	color: black;
+	margin: 10px;
+}
+h1{
+	font-size:20px;
+	text-align: center;
+	
+}
